@@ -19,6 +19,7 @@
 		47E9DF5C2C69E0D70098AA14 /* TCATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E9DF5B2C69E0D70098AA14 /* TCATests.swift */; };
 		47E9DF632C69E0F60098AA14 /* CounterFeatureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E9DF622C69E0F60098AA14 /* CounterFeatureTests.swift */; };
 		47E9DF652C69F1F10098AA14 /* NumberFactClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E9DF642C69F1F10098AA14 /* NumberFactClient.swift */; };
+		47E9DF672C69F4CD0098AA14 /* AppFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E9DF662C69F4CD0098AA14 /* AppFeature.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		47E9DF5B2C69E0D70098AA14 /* TCATests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TCATests.swift; sourceTree = "<group>"; };
 		47E9DF622C69E0F60098AA14 /* CounterFeatureTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterFeatureTests.swift; sourceTree = "<group>"; };
 		47E9DF642C69F1F10098AA14 /* NumberFactClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberFactClient.swift; sourceTree = "<group>"; };
+		47E9DF662C69F4CD0098AA14 /* AppFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppFeature.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				4708052B2C69C19100F0E759 /* Preview Content */,
 				470805362C69C3E100F0E759 /* CounterFeature.swift */,
 				47E9DF642C69F1F10098AA14 /* NumberFactClient.swift */,
+				47E9DF662C69F4CD0098AA14 /* AppFeature.swift */,
 			);
 			path = TCA;
 			sourceTree = "<group>";
@@ -227,6 +230,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47E9DF672C69F4CD0098AA14 /* AppFeature.swift in Sources */,
 				47E9DF652C69F1F10098AA14 /* NumberFactClient.swift in Sources */,
 				470805372C69C3E100F0E759 /* CounterFeature.swift in Sources */,
 				470805282C69C18F00F0E759 /* ContentView.swift in Sources */,
