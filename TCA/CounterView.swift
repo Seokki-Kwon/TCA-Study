@@ -62,6 +62,3 @@ struct CounterView: View {
     }
 }
 
-#Preview {
-    CounterView(store: TCAApp.store)
-}
